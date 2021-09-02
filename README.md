@@ -1,2 +1,2 @@
-# phplist-plugin-cmd
+# phpListPlugin-cmd
 plugin test for cmd php
